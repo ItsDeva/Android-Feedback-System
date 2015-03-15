@@ -1,0 +1,8 @@
+CREATE TABLE comments (
+id MEDIUMINT AUTO_INCREMENT,
+name varchar(255) NOT NULL,
+mail varchar(255) NOT NULL,
+msg varchar(255) NOT NULL,
+send DATETIME DEFAULT '0000-00-00 00:00:00',
+PRIMARY KEY (id)
+) ENGINE = InnoDB CHARACTER SET utf8 COLLATE utf8_general_ci;

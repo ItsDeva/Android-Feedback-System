@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Feedback System</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_send">Send</string>
+
+    <string name="text_name">Name</string>
+    <string name="text_mail">Mail</string>
+    <string name="text_comment">Your comment</string>
+
+    <string name="button_send">Send</string>
+    <string name="button_reset">Reset</string>
+
+    <string name="dialog_title">Are you sure?</string>
+    <string name="dialog_message">Are you sure you want to send this form?</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_no">No</string>
+</resources>

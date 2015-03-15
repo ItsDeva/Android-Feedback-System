@@ -12,7 +12,7 @@ There are various PHP scripts included with the package and you can also choose 
 
  - The MySQL database package is a script that if user send via the Android app is written it in a MySQL database.
  - The Email package is a script that if user send a mail via the Android app with all information sent.
- - Writing to a file package is a script that if the user something shipping via the Android app is there on the server a.TXT file with everything the user entered all files are stored in a folder.
+ - Writing to a file package is a script that if the user something shipping via the Android app is there on the server a .TXT file with everything the user entered all files are stored in a folder.
 
 # Installing #
 Installing actually very easy you just have to install the above mentioned packages a ban and to search for the following line in the Android Source Code:

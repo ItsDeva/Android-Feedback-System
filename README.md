@@ -21,6 +21,9 @@ Installing actually very easy you just have to install the above mentioned packa
 
 You should of course change my link in your own link and you should also change the script name so that everything is working properly
 
+# TODO #
+- There must first be considered whether there is a internet connection.
+
 # Report Issues/Bugs #
 [Bugs](https://github.com/bastiaandehart/Android-Feedback-System/issues)
 

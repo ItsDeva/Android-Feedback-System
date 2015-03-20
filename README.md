@@ -24,13 +24,13 @@ You should of course change my link in your own link and you should also change 
 # TODO #
 - There must first be considered whether there is a internet connection.
 
-# Report Issues/Bugs #
-[Bugs](https://github.com/bastiaandehart/Android-Feedback-System/issues)
+# Report Issues/Bugs
+[Bugs](https://github.com/BastiaanDeHart/Android-Feedback-System/issues)
 
-# Credits #
+# Credits
 Author: Bastiaan de Hart
 
-- [Github](http://github.com/bastiaandehart)
+- [My Github profile](http://github.com/BastiaanDeHart)
 - [My website](http://bastiaan.pw/)
 
 Email: [me@bastiaan.pw](mailto:me@bastiaan.pw)
